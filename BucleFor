@@ -1,0 +1,5 @@
+##Mi primer bucle
+a = 2
+for i in range(1,11):
+    print(f"{a}x{i}=")
+    print(i*a)
